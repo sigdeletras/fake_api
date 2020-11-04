@@ -1,0 +1,42 @@
+{
+  "shop": [
+    {
+      "id": 1,
+      "address": "Calle Juan Martín",
+      "type": "frutería",
+      "nombre": "Frutería Lola",
+      "longitude": 37.892306,
+      "latitude": -4.7795159
+    },
+    {
+      "id": 2,
+      "address": "Calle Pepe Cruz",
+      "type": "Supermercado",
+      "nombre": "Ultramarinos Chacho",
+      "longitude": 37.862323,
+      "latitude": -4.77812
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "manzanas",
+      "shopId": 1
+    },
+    {
+      "id": 2,
+      "name": "peras",
+      "shopId": 1
+    },
+    {
+      "id": 3,
+      "name": "escoba",
+      "shopId": 2
+    },
+    {
+      "id": 4,
+      "name": "detergente",
+      "shopId": 2
+    }
+  ]
+}
