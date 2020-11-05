@@ -5,16 +5,24 @@
       "address": "Calle Juan Martín",
       "type": "frutería",
       "nombre": "Frutería Lola",
-      "longitude": 37.892306,
-      "latitude": -4.7795159
+      "latitude": 37.880273,
+      "longitude": -4.792098
     },
     {
       "id": 2,
       "address": "Calle Pepe Cruz",
       "type": "Supermercado",
-      "nombre": "Ultramarinos Chacho",
-      "longitude": 37.862323,
-      "latitude": -4.77812
+      "nombre": "Ultramarinos Lolo",
+      "latitude": 37.862323,
+      "longitude": -4.77812
+    },
+    {
+      "id": 3,
+      "address": "Calle La Plata",
+      "type": "Pescadería",
+      "nombre": "Pescadería El Boquerón",
+      "latitude": 37.856273,
+      "longitude": -4.776992
     }
   ],
   "products": [
