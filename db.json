@@ -4,23 +4,23 @@
       "id": 1,
       "address": "Calle Juan Martín",
       "type": "frutería",
-      "nombre": "Frutería Lola",
+      "nombre": "Lola Castro Frutas",
       "latitude": 37.880273,
       "longitude": -4.792098
     },
     {
       "id": 2,
       "address": "Calle Pepe Cruz",
-      "type": "Supermercado",
-      "nombre": "Ultramarinos Lolo",
+      "type": "supermercado",
+      "nombre": "Ultramarinos Lolo Castro",
       "latitude": 37.862323,
       "longitude": -4.77812
     },
     {
       "id": 3,
-      "address": "Calle La Plata",
-      "type": "Pescadería",
-      "nombre": "Pescadería El Boquerón",
+      "address": "Avenida de la Cruz",
+      "type": "pescadería",
+      "nombre": "Pescados El Boquerón",
       "latitude": 37.856273,
       "longitude": -4.776992
     }
