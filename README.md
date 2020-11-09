@@ -14,6 +14,7 @@
 - CarlServer-Create Fake Data Using Json Schema Faker https://www.carlserver.com/blog/post/create-fake-data-using-json-schema-faker
 - Generating testing data from JSON Schema with JavaScript - techtutorialsx https://techtutorialsx.com/2020/09/13/generating-testing-data-from-json-schema-with-javascript/
 - Ten una REST API Falsa Funcionando Usando json-server https://code.tutsplus.com/es/tutorials/fake-rest-api-up-and-running-using-json-server--cms-27871
+- Creando una API REST con JSON Server y Faker.js - TecnoPS https://tecnops.es/creando-una-api-rest-con-json-server-y-faker-js/
 
 
 **Online mockup API**
